@@ -1,2 +1,1 @@
-# Hello-world
-# learning linux driver
+"Hello world" module
